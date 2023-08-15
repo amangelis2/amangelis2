@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amangelis2
 - Please find some info on my background below!
 
-<!---
 🔬 Experienced Senior Data Scientist & Medical Statistician 🔬
 
 As an accomplished Senior Data Scientist, I have a strong track record of delivering impactful healthcare-related data science projects through project design, statistical analysis, and strategic decision-making. Throughout my career, I have been dedicated to leveraging data-driven insights to identify risks, stratify patients in chronic disease datasets, and develop precision medicine approaches.
@@ -25,6 +24,3 @@ Within the NHS, I spearheaded a groundbreaking project aimed at developing risk 
 🌐 Multidisciplinary Background & Hybrid Mentality 🌐
 
 Combining my solid foundation in applied mathematics and physics with studies in biology and medicine, I bring a unique multidisciplinary perspective to problem-solving. My hybrid mentality effortlessly bridges the gap between real-world applications and academic research, empowering data-driven decision-making.
-
-
---->

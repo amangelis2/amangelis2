@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @amangelis2
-- Please find some info on my background below!
+👋 Hi, I’m @amangelis2
+Please find some info on my background below!
 
 🔬 Experienced Senior Data Scientist & Medical Statistician 🔬
 
